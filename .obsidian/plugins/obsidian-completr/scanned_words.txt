@@ -10,6 +10,7 @@ cq
 cf
 cu
 change
+changes
 date
 delete
 dddd
@@ -110,6 +111,7 @@ aP
 ass
 again
 all
+able
 This
 Thursday
 TitleD
@@ -144,6 +146,7 @@ iE
 iF
 iu
 it
+idea
 your
 you
 yu
@@ -272,6 +275,7 @@ wc
 wb
 wv
 wvv
+we
 going
 gitlab
 good
@@ -300,6 +304,7 @@ using
 unique
 uE
 uQ
+upstream
 file
 feature
 folder
@@ -466,6 +471,7 @@ Span
 StructTreeRoot
 Size
 SYMBLINKS
+Stashed
 PDF
 PyF
 Pzp
@@ -526,6 +532,7 @@ Us
 Underline
 UseOutlines
 US
+Updated
 OU
 Oz
 OE

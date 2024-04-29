@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NOTES/2024-04-29.md",
+                "file": "202405161132.md",
                 "mode": "source",
                 "source": false
               }
@@ -72,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#makefile",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -105,7 +105,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -125,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NOTES/2024-04-29.md",
+                "file": "202405161132.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NOTES/2024-04-29.md",
+                "file": "202405161132.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NOTES/2024-04-29.md"
+                "file": "202405161132.md"
               }
             }
           },
@@ -202,6 +203,20 @@
   },
   "active": "ede6f181d92f717d",
   "lastOpenFiles": [
+    "ASSETS/Untitled 2.pdf",
+    "202405161132.md",
+    "LINKS/LINKS.md",
+    "LINKS/Untitled.md",
+    "MERGE/202404241043.md",
+    "MERGE/202404240948.md",
+    "MERGE/202404230937.md",
+    "MERGE/202404220946.md",
+    "NOTES/2024-04-29.md",
+    "NOTES/2024-04-24.md",
+    "NOTES/2024-04-18.md",
+    "TEMPLATES/template1.md",
+    "202404290814.md",
+    "202404290808.md",
     "GITSYNCVAULT042924",
     "GITSYNCVAULT042924/MERGE/MERGE.md",
     "GITSYNCVAULT042924/MERGE/202404241043.md",
@@ -217,24 +232,10 @@
     "GITSYNCVAULT042924/ASSETS/Untitled 2.pdf",
     "GITSYNCVAULT042924/Welcome.md",
     "GITSYNCVAULT042924/TEMPLATES",
-    "GITSYNCVAULT042924/README.md",
     "GITSYNCVAULT042924/NOTES",
     "GITSYNCVAULT042924/MERGE",
     "GITSYNCVAULT042924/LINKS",
     "GITSYNCVAULT042924/ASSETS",
-    "GITSYNCVAULT042924/202404290814.md",
-    "GITSYNCVAULT042924/202404290808.md",
-    "NOTES/2024-04-24.md",
-    "NOTES/2024-04-18.md",
-    "ASSETS/Untitled 2.pdf",
-    "MERGE/202404240948.md",
-    "MERGE/202404230937.md",
-    "MERGE/202404220946.md",
-    "202404290814.md",
-    "202404290808.md",
-    "LINKS/LINKS.md",
-    "TEMPLATES/template1.md",
-    "NOTES/2024-04-29.md",
     "ASSETS",
     "MERGE/1375and1371",
     "Untitled.canvas"
