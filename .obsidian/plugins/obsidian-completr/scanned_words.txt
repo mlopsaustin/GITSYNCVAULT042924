@@ -9,6 +9,7 @@ check
 cq
 cf
 cu
+change
 date
 delete
 dddd
@@ -21,6 +22,7 @@ dJq
 dhX
 dX
 dk
+drop
 time
 tags
 tag
@@ -104,6 +106,9 @@ av
 aE
 aEpHhn
 aP
+ass
+again
+all
 This
 Thursday
 TitleD
@@ -117,6 +122,7 @@ TUUW
 Type
 TextDecorationType
 TextAlign
+Today
 is
 image
 in
@@ -151,7 +157,6 @@ not
 now
 needs
 notes
-nextcloud
 np
 nf
 nS
@@ -172,6 +177,7 @@ obj
 oi
 osI
 oG
+off
 something
 so
 scripts
@@ -217,6 +223,7 @@ rW
 ro
 rh
 rp
+rysnc
 make
 modified
 multi
@@ -267,6 +274,7 @@ git
 gitKRaken
 gs
 gB
+get
 boss
 by
 block
@@ -299,6 +307,7 @@ fV
 fh
 fJ
 fN
+flights
 Note
 NR
 NF
@@ -374,6 +383,7 @@ pF
 pKF
 pY
 pSU
+packages
 Jes
 Guti
 GOOD
@@ -385,6 +395,7 @@ GK
 Gcr
 Ge
 Gnt
+GOAL
 Inputs
 Ib
 Ic
@@ -492,6 +503,7 @@ Rg
 Resources
 RoleMap
 Root
+RSYNdsf
 Ul
 Uf
 Us
