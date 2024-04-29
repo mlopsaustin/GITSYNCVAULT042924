@@ -1,0 +1,242 @@
+{
+  "main": {
+    "id": "f0ca1321157a82fa",
+    "type": "split",
+    "children": [
+      {
+        "id": "c0d0e9ad6fbd3884",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ede6f181d92f717d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NOTES/2024-04-29.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c7b932233b321337",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LINKS/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "78d7f8c630501655",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NOTES/2024-04-24.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "57ffe38e73841a40",
+    "type": "split",
+    "children": [
+      {
+        "id": "227ba2b64e2ce6ff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "94b74e6f15812b3a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0348143d5f2c9721",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ebd3622a148e7904",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "e3a96b29387462ae",
+            "type": "leaf",
+            "state": {
+              "type": "tagfolder-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "ead93f773372f676",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ed57cfad0b0ae575",
+    "type": "split",
+    "children": [
+      {
+        "id": "adb82362fe4619d1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6b88549877ce4945",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "NOTES/2024-04-29.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4a2221fdeaa5e16d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "NOTES/2024-04-29.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "33d2acebebe2208f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8b2bc615d2cd105a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "NOTES/2024-04-29.md"
+              }
+            }
+          },
+          {
+            "id": "c3522807ee85e05a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": true,
+      "graph:Open graph view": true,
+      "daily-notes:Open today's daily note": false,
+      "canvas:Create new canvas": true,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": true,
+      "zk-prefixer:Create new unique note": false,
+      "templater-obsidian:Templater": true
+    }
+  },
+  "active": "ede6f181d92f717d",
+  "lastOpenFiles": [
+    "NOTES/2024-04-24.md",
+    "NOTES/2024-04-18.md",
+    "ASSETS/Untitled 2.pdf",
+    "MERGE/202404240948.md",
+    "MERGE/202404230937.md",
+    "MERGE/202404220946.md",
+    "202404290814.md",
+    "202404290808.md",
+    "LINKS/LINKS.md",
+    "TEMPLATES/template1.md",
+    "NOTES/2024-04-29.md",
+    "MERGE/202404241043.md",
+    "MERGE/MERGE.md",
+    "LINKS/Untitled.md",
+    "ASSETS",
+    "MERGE/GITHUB TOKEN.md",
+    "Welcome.md",
+    "LINKs/project1.md",
+    "202404181551.md",
+    "202404181549.md",
+    "202404181548.md",
+    "202404181544.md",
+    "202404181537.md",
+    "202404181533.md",
+    "202404181606.md",
+    "MERGE/1375and1371",
+    "MERGE",
+    "LINKS",
+    "Untitled 1.md",
+    "Untitled.canvas",
+    "NOTES/2024-04-18 - Daily Note.md",
+    "NOTES",
+    "TEMPLATES/0A_99_Index",
+    "TEMPLATES/0A_17_WordDictionary",
+    "TEMPLATES/0A_16_Investment",
+    "TEMPLATES/0A_15_Company"
+  ]
+}

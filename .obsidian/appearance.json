@@ -1,0 +1,19 @@
+{
+  "accentColor": "#832895",
+  "enabledCssSnippets": [
+    "Colored Sidebar Items",
+    "CyanVoxel's General Tweaks",
+    "Daily Note Themes",
+    "Japanese Font Support",
+    "Minecraft",
+    "Notebook Backgrounds",
+    "Runescape"
+  ],
+  "cssTheme": "Things",
+  "baseFontSize": 23,
+  "baseFontSizeAction": true,
+  "theme": "obsidian",
+  "textFontFamily": "Arundina Serif",
+  "interfaceFontFamily": "Cortoba",
+  "monospaceFontFamily": "Courier New"
+}

@@ -1,0 +1,26 @@
+{
+  "dateFormat": "yyyy-MM-dd'T'HH:mm",
+  "enableCreateTime": true,
+  "headerUpdated": "updated",
+  "headerCreated": "created",
+  "minMinutesBetweenSaves": 1,
+  "ignoreGlobalFolder": [],
+  "ignoreCreatedFolder": [],
+  "enableExperimentalHash": false,
+  "fileHashMap": {
+    "TEMPLATES/template1.md": "a337aaab6e9fdb31e1976acfa6161d5a41a4b4430d072ee74d8de3e59642cb9c",
+    "NOTES/2024-04-18.md": "9a103b3b3fa20a9f9cc3cc4dd9c849a0a5145a3e2811bfb0c4e09013365e3ac0",
+    "Welcome.md": "2d761395ac4208f665e91db8c1ca81912a49ba70397ae50e01c996dd7143ac54",
+    "LINKS/LINKS.md": "73aa5df4a295c9550e592cec19dda262a7d5a38cb8d4430880ea8340bad3f7f1",
+    "LINKS/Untitled.md": "d22b3f318539faa255fe3875c5746c8a9314dd555738c868b7c12b32d4ade637",
+    "MERGE/202404220946.md": "4961c654fe60585c0c3cb77f0f66f6d0bd984bbd5402bf6d46a4508f87f12203",
+    "MERGE/202404230937.md": "a10a48c25bdd82bf4ba2e7ee277bc43e561c59f0b9873a854fab821faded9621",
+    "MERGE/202404240948.md": "aa9c79aed7ae996b99fbfa6c56047aefa5a33da3ddfb4e9ed9fb5f4ba6e4ea2e",
+    "MERGE/202404241043.md": "fdcea75ba8f2f4232cdbcafdbe44be079ad22512d7b52416d50d6b07a960fdb1",
+    "MERGE/MERGE.md": "e5fab755ae594da03c440fc707b7d99c06e2a8bfb5910630fa147052eb6a4871",
+    "NOTES/2024-04-24.md": "f2c67992e6b4588223831240e4194ce28b421428355ffbfaf332c360e6e3a2db",
+    "NOTES/2024-04-29.md": "eef6d415fe6a8bf44c318cfe51f67f33bb89bc87be26fd7ab69bc712c6584b92",
+    "202404290808.md": "a5e984ba45e3d1db9acea39383dc43a24233e15acb8f5cc6cf60ffb55c0a1388",
+    "202404290814.md": "1cc91022a9b681005ceb296cd549de2b746ad9fbd346ed95988543fa40fa630a"
+  }
+}
